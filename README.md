@@ -52,4 +52,8 @@ Faculty enters marks
         ↓
 Admin approves records
 
+## Screenshot
+
+![image Alt](https://github.com/dharshan-24/edutrack-academic-workflow/blob/66150871ebe8e57c8008e6604a407cf229aa0231/Project.png)
+
 
