@@ -53,10 +53,3 @@ Faculty enters marks
 Admin approves records
 
 
-
-
-##Screenshot
-
-![image alt](https://github.com/dharshan-24/edutrack-academic-workflow/blob/5c753ba0a3b52ce0e0d27cfb1b5c226742e98484/Project.png)
-        ↓
-Student views final results
