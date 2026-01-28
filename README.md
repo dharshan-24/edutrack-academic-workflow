@@ -45,6 +45,13 @@ and enforces access rules at the API level.
 ## Admin Access
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed260613-21dd-4129-a5f3-1f3c857c1572" />
 
+## Faculty Access
+
+![Image](https://github.com/user-attachments/assets/f6a45959-08bf-4063-8339-a66b1aaebd06)
+
+## Students Course Enrollment
+
+
 ---
 
 ## 🔁 System Workflow
@@ -57,6 +64,8 @@ Student enrolls in courses
 Faculty enters marks
         ↓
 Admin approves records
+
+
 
 
 ---
