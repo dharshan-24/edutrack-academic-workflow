@@ -57,6 +57,9 @@ and enforces access rules at the API level.
 
 ![Image](https://github.com/user-attachments/assets/8270db03-f17c-453b-8260-3d6639c5c11d)
 
+## Student Only Access For Get Our Marks
+![Image](https://github.com/user-attachments/assets/d9c5ec8e-9999-4976-80d5-dcd345778b63)
+
 
 ---
 
