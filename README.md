@@ -51,6 +51,8 @@ and enforces access rules at the API level.
 
 ## Students Course Enrollment
 
+![Image](https://github.com/user-attachments/assets/55fb7a6b-18ba-45d2-9162-b0453a3fcdbd)
+
 
 ---
 
