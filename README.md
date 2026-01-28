@@ -39,6 +39,12 @@ and enforces access rules at the API level.
 🧑‍🏫 *Faculty* | Enter marks and create academic records |
 🛡 *Admin* | Approve records and manage the system |
 
+
+## Screenshots
+
+## Admin Access
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed260613-21dd-4129-a5f3-1f3c857c1572" />
+
 ---
 
 ## 🔁 System Workflow
@@ -52,8 +58,10 @@ Faculty enters marks
         ↓
 Admin approves records
 
-  Screenshot
 
-![image Alt](https://github.com/dharshan-24/edutrack-academic-workflow/blob/66150871ebe8e57c8008e6604a407cf229aa0231/Project.png)
+---
+
+
+
 
 
