@@ -53,6 +53,10 @@ and enforces access rules at the API level.
 
 ![Image](https://github.com/user-attachments/assets/55fb7a6b-18ba-45d2-9162-b0453a3fcdbd)
 
+## Students Access and Show Your Mark
+
+![Image](https://github.com/user-attachments/assets/8270db03-f17c-453b-8260-3d6639c5c11d)
+
 
 ---
 
